@@ -20,10 +20,15 @@ body {
      position: relative;
      top: 50px;
   }
-  #section1 {padding-top:50px;height:500px;}
-  #section2 {padding-top:50px;height:500px;}
-  #section3 {padding-top:50px;height:500px;}
-  #section41 {padding-top:50px;height:500px;}
-  #section42 {padding-top:50px;height:500px;}
+  #section1 {padding-top:30px;height:auto;}
+  #section2 {padding-top:30px;height:auto;}
+  #section3 {padding-top:30px;height:auto;}
+  #section41 {padding-top:30px;height:auto;}
+  #section42 {padding-top:30px;height:auto;}
+
+#section2 .img-circle {
+    max-height: 200px;
+    max-width: 200px;
+}
 
 
